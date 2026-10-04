@@ -1,0 +1,8 @@
+test,condition_a,condition_b,statistic,p_value,cohens_dz
+Friedman,all_six,,922.1628571428573,4.249347002873726e-197,
+paired_Wilcoxon,fixed,unconstrained,7382.0,0.0011322716295506347,0.2518489261732863
+paired_Wilcoxon,fixed,adaptive,57.0,3.3805107451746514e-34,1.5985076900382376
+paired_Wilcoxon,adaptive,unconstrained,7009.0,0.00020681963449999284,-0.2507384329482263
+paired_Wilcoxon,fixed,random,0.0,1.4361464127613523e-34,-10.663144017500391
+paired_Wilcoxon,fixed,uniform,0.0,1.4361464127613523e-34,-6.782423310644284
+paired_Wilcoxon,fixed,greedy,6.0,1.5719261027266517e-34,-2.4427990441030913
